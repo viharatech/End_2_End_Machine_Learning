@@ -7,7 +7,7 @@
 
 
 
-***Techniques, tools, best practices, and everything you need to to learn machine learning!***
+***Techniques, tools, best practices, and everything you need to learn machine learning!***
 
 ![tools](images/git_cover.png)
 
