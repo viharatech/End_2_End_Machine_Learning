@@ -5,6 +5,13 @@
 ```
 *******
 
+
+
+***Techniques, tools, best practices, and everything you need to to learn machine learning!***
+
+![tools](images/git_cover.png)
+
+
 ## Tools Overview
 
 The following are the tools that are covered in Complete Machine Learning Package. They are popular tools that most machine learning engineers and data scientists need in one way or another and day to day. 
